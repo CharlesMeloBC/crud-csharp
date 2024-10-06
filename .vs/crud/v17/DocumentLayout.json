@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Charles\\Desktop\\crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29000-307E-42F6-BAF9-EC663F86BA8F}|crud.csproj|c:\\users\\charles\\desktop\\crud\\crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3BA29000-307E-42F6-BAF9-EC663F86BA8F}|crud.csproj|solutionrelative:crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crud",
+              "DocumentMoniker": "C:\\Users\\Charles\\Desktop\\crud\\crud.csproj",
+              "RelativeDocumentMoniker": "crud.csproj",
+              "ToolTip": "C:\\Users\\Charles\\Desktop\\crud\\crud.csproj",
+              "RelativeToolTip": "crud.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T04:01:43.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
