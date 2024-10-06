@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CmOziIvGXkk=",
+  "dgSpecHash": "j0Wb3MrTqYc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Charles\\Desktop\\crud\\crud.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.8\\microsoft.entityframeworkcore.sqlite.8.0.8.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.8\\microsoft.entityframeworkcore.sqlite.core.8.0.8.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.design\\1.1.6\\microsoft.entityframeworkcore.sqlite.design.1.1.6.nupkg.sha512",
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.8\\microsoft.entityframeworkcore.tools.8.0.8.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Charles\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
